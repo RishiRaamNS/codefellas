@@ -6,7 +6,7 @@ Pages:
 
 Client :
 
-Signup
+Signup:verification using bar council id
 Login  — Search for the Legal Advisor
 
 Legal Advisor
