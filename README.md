@@ -22,4 +22,6 @@ Previous Work
 Skill Level
 Reputation 
 
+business potential: 3% of fees paid to the pofessional will be used by the web site.
+
 
